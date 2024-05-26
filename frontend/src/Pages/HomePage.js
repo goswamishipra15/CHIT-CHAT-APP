@@ -18,7 +18,7 @@ const HomePage = () => {
       <Box
         d="flex"
         textAlign="center"
-        p={3}
+        p={2}
         bg="white"
         w="100%"
         m="30px 0 10px 0"
@@ -29,7 +29,7 @@ const HomePage = () => {
           CHIT-CHAT-APP
         </Text>
       </Box>
-      <Box bg="white" w="100%" p={3} borderRadius="lg" borderWidth="1px">
+      <Box bg="white" w="100%" p={2} borderRadius="lg" borderWidth="1px">
         <Tabs isFitted variant="soft-rounded">
           <TabList mb="1em">
             <Tab>Login</Tab>
